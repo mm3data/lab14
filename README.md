@@ -73,13 +73,19 @@ _Что такое chassis ID  для коммутатора?_
 <img width="912" height="806" alt="image" src="https://github.com/user-attachments/assets/328fadf4-8cbb-4ce2-b063-1108e78adf63" />  
 <img width="822" height="577" alt="image" src="https://github.com/user-attachments/assets/65f7b00f-1472-4b1c-8c93-f695880798f1" />
 
-## NTP  
+## NTP   
+<img width="541" height="283" alt="image" src="https://github.com/user-attachments/assets/506771bd-865c-4678-9961-07e921127f53" />   
 
-<img width="526" height="216" alt="image" src="https://github.com/user-attachments/assets/a8c28989-b594-4141-b530-ae62f5e83057" />  
+  
 
-<img width="797" height="230" alt="image" src="https://github.com/user-attachments/assets/d2e5c348-9375-4fbe-a8ff-65a7bacabd40" />  
+      
+<img width="520" height="98" alt="image" src="https://github.com/user-attachments/assets/82be0a62-805b-49a2-8221-ce7c4a0cb651" />  
 
-<img width="704" height="267" alt="image" src="https://github.com/user-attachments/assets/bdaa700f-8f69-461b-bbf9-4c382a8ae26d" />  
+<img width="289" height="55" alt="image" src="https://github.com/user-attachments/assets/2988101e-7b32-4c49-88d1-2fc95fb6a528" />    
+
+
+<img width="1387" height="655" alt="image" src="https://github.com/user-attachments/assets/6808e11b-4a82-4a08-acac-75c1ccbc0682" />  
+  
 
 
   
